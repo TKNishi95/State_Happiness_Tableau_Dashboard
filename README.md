@@ -5,17 +5,18 @@ This tableau dashboard was inspired by an article on WalletHub that ranked the h
 
 
 ## Datasets Used:
-●	State Happiness Dataset (WalletHub)
-●	2024 Index scores related to Housing, Transportation, Groceries, and Cost of Living from World Population Review
-●	2020 Health care expenditure by state per capita from KFF 
-●	2022 Hospital Beds per 1000 from KFF
-●	States and Region (data that includes US state information including abbreviation, and region)
-●	2022 Bars per capita (100,000) from vinepair.com (used ChatGPT to create the data from table screenshot of the website)
-●	2024 State Mental Health Agency Expenditure per Capita from rehab.com (also used ChatGPT to create the data from table screen) 
+- State Happiness Dataset (WalletHub)
+- 2024 Index scores related to Housing, Transportation, Groceries, and Cost of Living from World Population Review
+- 2020 Health care expenditure by state per capita from KFF
+- 2022 Hospital Beds per 1000 from KFF
+- States and Region (data that includes US state information including abbreviation, and region)
+- 2022 Bars per capita (100,000) from vinepair.com (used ChatGPT to create the data from table screenshot of the website)
+- 2024 State Mental Health Agency Expenditure per Capita from rehab.com (also used ChatGPT to create the data from table screen) 
 
 
 ## Link to Wallethub Article
 https://wallethub.com/edu/happiest-states/6959
+
 
 ## Link to Dashboard
 https://public.tableau.com/shared/G643X5X68?:display_count=n&:origin=viz_share_link
